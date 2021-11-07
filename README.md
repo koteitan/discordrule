@@ -1,4 +1,4 @@
-# discor drule
+# discord rule
 Rule template of discord server
 
 This is the template rule of the discord server.
