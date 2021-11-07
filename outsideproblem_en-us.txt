@@ -1,8 +1,8 @@
 Please follow the rules below!
 
---------------------------
+----------------------------------------------------------------
 Prohibits
---------------------------
+----------------------------------------------------------------
 (1) Do not do anything that is prohibited by "Discord Community Guidelines".
    (1-1)--(1-18) Don't do anything that is prohibited by 1.--18 in https://discord.com/guidelines 
 (2) Do not do personal abuse to other one.
@@ -17,9 +17,10 @@ Prohibits
 (9) Non-administrators are not allowed to send messages by @here or @everyone.
 (10) Vandalism, such as intentionally posting viruses, malware, or phishing links, intentionally posting large amounts of nonsense, or intentionally launching DDoS attacks, is prohibited.
 
---------------------------
+----------------------------------------------------------------
 　Action on violations
---------------------------
+----------------------------------------------------------------
+
 We would like to take the following actions against violations.
 
 (1) If you find a violation of the above prohibitions, please tell the administrator via DM.
@@ -28,13 +29,20 @@ We would like to take the following actions against violations.
 (4) If the offender re-enters and re-offends further, and shows no remorse, the administrator will ban him/her. (They will not be able to come back until the ban is lifted)
 (5) Anyone who enters and immediately commits vandalism will be banned by the administrators.
 
----------------------------
+-----------------------------------------------------------------
 　Policy for developing prohibitions
----------------------------
+-----------------------------------------------------------------
 The administrators have adopted the following policy for formulating banned items.
 
 The reason for the numbered bullet points is to make it easier to point out things like "This violates (3-2)".
 If you have any questions, please feel free to contact me.
 When the rules are revised, they will go into effect about two weeks after the last revision has been made.
+
+--------------------------------------
+  About External issues
+--------------------------------------
+No ban or warning will be issued on this server for any external communities even if it is the prohibits in the server.
+
+The reason is that we think the issue on the other communities should be solve by the communities themselves. We will not spend time on problems created by mismanagement of external servers.
 --------------
 That's all. 
