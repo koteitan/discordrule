@@ -13,9 +13,13 @@ To indicate a revision, go to https://github.com/koteitan/discordrule -> select 
 
 
 これは Discord サーバーのルールのテンプレートです。
+
 自由にリンクしたり、コピーしたりして構いません。
+
 例えば、一番便利なのは、使いたいルールをコミット指定で選んで、あなたのサーバーからリンクすることです。
+
 このサーバーのルールは随時更新していきますが、コミット指定で選べば
+
 コミット指定で使用する方法は、https://github.com/koteitan/discordrule → 好きなルールファイルを選ぶ → history → 好きなリビジョンを選ぶ → URLをコピーする
 
 # list
