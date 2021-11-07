@@ -1,0 +1,40 @@
+Please follow the rules below!
+
+--------------------------
+Prohibits
+--------------------------
+(1) Do not do anything that is prohibited by "Discord Community Guidelines".
+   (1-1)--(1-18) Don't do anything that is prohibited by 1.--18 in https://discord.com/guidelines 
+(2) Do not do personal abuse to other one.
+  (2-1) Telling a lie and harming the reputation of others
+  (2-2) To speak ill or speak ill of others.
+(3) Do not make harassment. (cf. See Discord Guideline 2. for the definition of discriminatory remarks)
+(4) Revealing personal information: Do not expose other people's personal information without permission.
+(5) R-rated content: This server is for all ages, so you may not post chat, images, videos, voice chat, or videos with R20, R18, R15, or PG12 content.
+(6) You may not post or distribute images or videos of nudity, pornography, violence, or gore that are not suitable for viewing in schools or workplaces.
+(7) Election activities and religious solicitation are prohibited.
+(8) Don't do sock puppet: Faking an account to hack into the server in order to avoid a ban is prohibited.
+(9) Non-administrators are not allowed to send messages by @here or @everyone.
+(10) Vandalism, such as intentionally posting viruses, malware, or phishing links, intentionally posting large amounts of nonsense, or intentionally launching DDoS attacks, is prohibited.
+
+--------------------------
+　Action on violations
+--------------------------
+We would like to take the following actions against violations.
+
+(1) If you find a violation of the above prohibitions, please tell the administrator via DM.
+(2) In that case, the administrator will decide whether it is a violation or not, and warn the violator by DM, and if necessary, urge him/her to delete it.
+(3) If the offender still refuses to listen, we will kick them. (If the offender is kicked, they will be kicked out of the server, but if they are invited again, they will be allowed in.)
+(4) If the offender re-enters and re-offends further, and shows no remorse, the administrator will ban him/her. (They will not be able to come back until the ban is lifted)
+(5) Anyone who enters and immediately commits vandalism will be banned by the administrators.
+
+---------------------------
+　Policy for developing prohibitions
+---------------------------
+The administrators have adopted the following policy for formulating banned items.
+
+The reason for the numbered bullet points is to make it easier to point out things like "This violates (3-2)".
+If you have any questions, please feel free to contact me.
+When the rules are revised, they will go into effect about two weeks after the last revision has been made.
+--------------
+That's all. 
