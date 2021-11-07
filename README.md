@@ -24,12 +24,19 @@ To indicate a revision, go to https://github.com/koteitan/discordrule -> select 
 
 # list
 (1) standard_en-us.txt ......... standard rule in English.
+
 (2) standard_ja-jp.txt ......... standard rule in Japanese. Its contents is as same as the contents of (1).
+
 (3) outsideproblem_en-us.txt ... (1) + we don't treat the problem in the outside comunities.
+
 (4) outsideproblem_ja-jp.txt ... (2) + we don't treat the problem in the outside comunities.
 
+
 (1) standard_en-us.txt ......... 英語版標準ルール
+
 (2) standard_ja-jp.txt ......... 日本語版標準ルール。内容は(1)と同じ。
+
 (3) outsideproblem_en-us.txt ... (1) + 外部のコミュニティでの問題を扱わないルール
+
 (4) outsideproblem_ja-jp.txt ... (2) + 外部のコミュニティでの問題を扱わないルール
 
